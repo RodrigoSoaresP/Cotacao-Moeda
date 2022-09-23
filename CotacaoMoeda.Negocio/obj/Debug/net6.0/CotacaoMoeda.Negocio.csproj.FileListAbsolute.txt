@@ -1,0 +1,17 @@
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\bin\Debug\net6.0\CotacaoMoeda.Negocio.deps.json
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\bin\Debug\net6.0\CotacaoMoeda.Negocio.dll
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\bin\Debug\net6.0\CotacaoMoeda.Negocio.pdb
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\obj\Debug\net6.0\CotacaoMoeda.Negocio.csproj.AssemblyReference.cache
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\obj\Debug\net6.0\CotacaoMoeda.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\obj\Debug\net6.0\CotacaoMoeda.Negocio.AssemblyInfoInputs.cache
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\obj\Debug\net6.0\CotacaoMoeda.Negocio.AssemblyInfo.cs
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\obj\Debug\net6.0\CotacaoMoeda.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\obj\Debug\net6.0\CotacaoMoeda.Negocio.dll
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\obj\Debug\net6.0\refint\CotacaoMoeda.Negocio.dll
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\obj\Debug\net6.0\CotacaoMoeda.Negocio.pdb
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\obj\Debug\net6.0\ref\CotacaoMoeda.Negocio.dll
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\bin\Debug\net6.0\CotacaoMoeda.Infra.dll
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\bin\Debug\net6.0\CotacaoMoeda.Modelo.dll
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\bin\Debug\net6.0\CotacaoMoeda.Infra.pdb
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\bin\Debug\net6.0\CotacaoMoeda.Modelo.pdb
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Negocio\obj\Debug\net6.0\CotacaoMoeda.Negocio.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Modelo\bin\Debug\net6.0\CotacaoMoeda.Modelo.deps.json
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Modelo\bin\Debug\net6.0\CotacaoMoeda.Modelo.dll
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Modelo\bin\Debug\net6.0\CotacaoMoeda.Modelo.pdb
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Modelo\obj\Debug\net6.0\CotacaoMoeda.Modelo.csproj.AssemblyReference.cache
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Modelo\obj\Debug\net6.0\CotacaoMoeda.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Modelo\obj\Debug\net6.0\CotacaoMoeda.Modelo.AssemblyInfoInputs.cache
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Modelo\obj\Debug\net6.0\CotacaoMoeda.Modelo.AssemblyInfo.cs
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Modelo\obj\Debug\net6.0\CotacaoMoeda.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Modelo\obj\Debug\net6.0\CotacaoMoeda.Modelo.dll
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Modelo\obj\Debug\net6.0\refint\CotacaoMoeda.Modelo.dll
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Modelo\obj\Debug\net6.0\CotacaoMoeda.Modelo.pdb
+C:\Users\rodrigo.pereira\Desktop\CotacaoMoeda\CotacaoMoeda\CotacaoMoeda.Modelo\obj\Debug\net6.0\ref\CotacaoMoeda.Modelo.dll
